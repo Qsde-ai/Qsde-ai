@@ -4,8 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qsde-ai&layout=compact)](https://github.com/Qsde-ai/github-readme-stats)
 
-<img src="https://github.com/Qsde-ai/Qsde-ai/blob/main/danci-cat">
+<img src="https://github.com/Qsde-ai/Qsde-ai/blob/main/danci-cat](https://github.com/Qsde-ai/Qsde-ai/blob/main/lumedoallumenaria-dancing-cat-ai.gif)">
 [![Tailwind Components][gif-url]]  
 
 
-[gif-url]: [https://github.com/user-attachments/assets/3e5bde5f-7cad-4a36-a5d8-cc40e9d67e5e](https://github.com/Qsde-ai/Qsde-ai/blob/main/danci-cat)](https://github.com/Qsde-ai/Qsde-ai/blob/main/lumedoallumenaria-dancing-cat-ai.gif)
+[gif-url]: https://github.com/user-attachments/assets/3e5bde5f-7cad-4a36-a5d8-cc40e9d67e5e](https://github.com/Qsde-ai/Qsde-ai/blob/main/danci-cat)](https://github.com/Qsde-ai/Qsde-ai/blob/main/lumedoallumenaria-dancing-cat-ai.gif)](https://github.com/Qsde-ai/Qsde-ai/blob/main/lumedoallumenaria-dancing-cat-ai.gif)
